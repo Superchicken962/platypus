@@ -1,0 +1,14 @@
+#platybutton {
+    display: block;
+    margin: auto;
+    padding: 14px 30px;
+    font-size: 16px;
+}
+
+#img {
+    display: block;
+    margin: auto;
+    width: 25%;
+    position: absolute;
+    z-index: -1;
+}
